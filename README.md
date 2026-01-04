@@ -1,3 +1,8 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shiv930&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for shiv kumar rai" /> 
+</p>
+
+
 - 👋 Hi, I’m @shiv930
 - 👀 I’m interested in to solve a real world problem...
 - 🌱 I’m currently learning in RGPV university ...
