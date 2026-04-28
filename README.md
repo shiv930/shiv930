@@ -3,13 +3,23 @@
 </p>
 
 
-- 👋 Hi, I’m @shiv930
-- 👀 I’m interested in to solve a real world problem...
-- 🌱 I’m currently learning in RGPV university ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋# Hi, I'm Shiv 👋
+
+💻 Full Stack Developer
+🚀 Passionate about building real-world projects
+
+## 🔭 Currently Working On
+- Direct Farmer-to-Consumer Digital Marketplace Platform
+- React Projects
+
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- Node.js
+- MongoDB
+
+## 📫 Connect with me
+- Email: kr970367@gmail.com
 
 <!---
 shiv930/shiv930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
